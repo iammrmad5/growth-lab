@@ -1,0 +1,20 @@
+{
+  "name": "growthlab",
+  "version": "1.0.0",
+  "description": "A lab which will become the lab for optimizing , building and analyzing the growth of your mind",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "lab",
+    "growth",
+    "knowdledge"
+  ],
+  "author": "Nitin Singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
